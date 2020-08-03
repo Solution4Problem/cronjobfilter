@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["paramiko>=2.7.1", "requests>=2"]
+requirements = ["paramiko>=2.6.0", "requests>=2"]
 
 setup(
     name="cronjobfilter",
