@@ -7,7 +7,7 @@ requirements = ["regex>=2020.6.7", "requests>=2"]
 
 setup(
     name="cronjobfilter",
-    version="0.0.3",
+    version="0.0.1",
     author="Priyesh Naik",
     author_email="blackbeastfilo@live.com",
     description="A package will help to filter list of cronjobs which are coming under from date and to date.",
